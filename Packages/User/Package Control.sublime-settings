@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSScomb",
+		"CSSLint",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"Git",
+		"HTML5",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Nil"
+	]
+}

@@ -1,0 +1,871 @@
+{
+	"folder_history":
+	[
+		"/C/Users/meicai/Desktop/yzj",
+		"/C/Users/Administrator/Desktop/iconfont-master/iconfont-master",
+		"/F/相关资料/代码原档/网页开发类/iconfont",
+		"/E/github",
+		"/F/相关资料/代码原档/网页开发类/内容展示 幻灯片效果/jquery视差滑块幻灯特效",
+		"/F/相关资料/代码原档/网页开发类/表单元素/jQuery微信开放平台注册表单  消息提示窗口通用",
+		"/F/相关资料/代码原档/网页开发类/整站/www.jakubszymanski.eu",
+		"/E/github/start/myResume",
+		"/F/相关资料/代码原档/网页开发类/整站/metro扁平UI网页组件",
+		"/F/相关资料/代码原档/网页开发类/shine",
+		"/F/相关资料/代码原档/网页开发类/表单元素/CSS3联系表单 背景透明迷人DEMO演示",
+		"/F/相关资料/代码原档/网页开发类",
+		"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master",
+		"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me",
+		"/F/相关资料/代码原档/网页开发类/慕课网"
+	],
+	"last_version": 3083,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"style",
+						"style	Attr"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"sele",
+						"selectionSort〔function〕"
+					],
+					[
+						"selec",
+						"selectionSort"
+					],
+					[
+						"pers",
+						"person2〔variable〕"
+					],
+					[
+						"styl",
+						"style	Tag"
+					],
+					[
+						"data",
+						"dataStore"
+					],
+					[
+						"para",
+						"paramJson〔variable〕"
+					],
+					[
+						"sc",
+						"script	Tag"
+					],
+					[
+						"scrip",
+						"script	Tag"
+					],
+					[
+						"ca",
+						"caption	<caption>"
+					],
+					[
+						"can",
+						"canvas	<canvas>"
+					],
+					[
+						"DOC",
+						"document"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 129.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"INST",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator/Desktop/1.html",
+				"/C/Users/Administrator/Desktop/test2 - 副本 (2).html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/树/二叉树实现.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/mine/index.html",
+				"/C/Users/Administrator/Desktop/test2 - 副本.html",
+				"/C/Users/Administrator/Desktop/test2.html",
+				"/F/相关资料/代码原档/网页开发类/整站/便签整站模板/index.htm",
+				"/E/github/start/myResume/index.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/mine/css/style.css",
+				"/F/相关资料/代码原档/网页开发类/整站/www.jakubszymanski.eu/www.jakubszymanski.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/排序/希尔排序简单.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/3.html",
+				"/F/相关资料/代码原档/网页开发类/jiaoben2204/index.html",
+				"/D/Program Files (x86)/nodejs/node_modules/npm/npmrc",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/6.html",
+				"/F/相关资料/代码原档/网页开发类/pure-css3-social-buttons/default.css",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/04-特效菜单/特效菜单.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/排序/冒泡排序实现.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter14/Chap14-2.js",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/链表/链表实现.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/链表/双向链表.html",
+				"/F/相关资料/代码原档/网页开发类/动画效果/蹦床弹跳及橡皮筋拖拽切换图片效果/index.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/列表/movie.html",
+				"/F/相关资料/代码原档/网页开发类/表单元素/CSS3联系表单 背景透明迷人DEMO演示/index.html",
+				"/F/相关资料/代码原档/网页开发类/表单元素/CSS3联系表单 背景透明迷人DEMO演示/css/style.css",
+				"/C/Users/Administrator/WebstormProjects/index.html",
+				"/F/相关资料/代码原档/网页开发类/html5-mario/QAuIByrkL.js",
+				"/F/相关资料/代码原档/网页开发类/webhek/index.htm",
+				"/F/相关资料/代码原档/网页开发类/表单元素/CSS3联系表单 背景透明迷人DEMO演示/css/Blurry-city-lights1337.jpg",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/列表/列表构建 - 副本.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter2/chap2_1.js",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/README.md",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/列表/列表构建.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/展开与收起效果（源代码）/Demo1 - 副本.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/展开与收起效果（源代码）/Demo1.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter3/chap3_1.js",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter2/xiti2-1学生成绩的对象_添加成绩的方法_平均成绩的方法.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/2.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter2/timu2-1学生成绩的对象_添加成绩的方法_平均成绩的方法.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter2/chap2.js",
+				"/C/Users/Administrator/Desktop/2015-03-18-js-img-load/index.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/数组/二维数组.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/数组/split转换字符串至json.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/this 计算.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/03-动画菜单/动画菜单.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/03-动画菜单/js动画菜单.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/人人2011/上传图片.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/人人2011/图片自适应屏幕.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/js算法/截取字符串abcdefg的efg.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/左边跟随鼠标滑动导航仿淘宝UED.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/03-动画菜单/jquery导航下拉菜单两级平滑导航菜单/index.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/D/Program Files (x86)/新建文件夹/User/Preferences.sublime-settings",
+				"/D/Program Files (x86)/新建文件夹/User/Package Control.user-ca-bundle",
+				"/D/Program Files (x86)/新建文件夹/User/Default (Windows).sublime-keymap",
+				"/D/Program Files (x86)/新建文件夹/新建文件夹/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"register-switch-input25",
+					"putstr",
+					"cookie-message",
+					"999",
+					"print",
+					"eturn",
+					"unction",
+					"print",
+					"eturn",
+					"unction",
+					"unction enqueue(element) {\n",
+					"unction",
+					"1",
+					".",
+					"person3",
+					"Person",
+					"print",
+					"movies",
+					"print",
+					"slidetoggle",
+					"ap",
+					"print",
+					"word",
+					"x",
+					"score",
+					"print",
+					"columns",
+					"print",
+					"所有数组第一个字母",
+					" ;",
+					"print",
+					"x",
+					"print",
+					"x",
+					"print"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 237.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"styl",
+						"style	Attr"
+					],
+					[
+						"min-",
+						"min-height"
+					],
+					[
+						"icon",
+						"iconfont"
+					],
+					[
+						"border-bott",
+						"border-bottom-color"
+					],
+					[
+						"marin",
+						"margin-left"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"main",
+						"main.js"
+					],
+					[
+						"scrip",
+						"script	Tag"
+					],
+					[
+						"script",
+						"script	Tag"
+					],
+					[
+						"scri",
+						"script	<script>"
+					],
+					[
+						"style",
+						"style	Tag"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"sele",
+						"selectionSort〔function〕"
+					],
+					[
+						"selec",
+						"selectionSort"
+					],
+					[
+						"pers",
+						"person2〔variable〕"
+					],
+					[
+						"data",
+						"dataStore"
+					],
+					[
+						"para",
+						"paramJson〔variable〕"
+					],
+					[
+						"sc",
+						"script	Tag"
+					],
+					[
+						"ca",
+						"caption	<caption>"
+					],
+					[
+						"can",
+						"canvas	<canvas>"
+					],
+					[
+						"DOC",
+						"document"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/meicai/Desktop/yzj/huhu.html",
+					"settings":
+					{
+						"buffer_size": 190,
+						"line_ending": "Windows",
+						"name": "!"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 152.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						"BracketHighlighter: Remove Brackets"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"INST",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+			],
+			"file_history":
+			[
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/F/相关资料/代码原档/网页开发类/正方形中间透明的圆实现.html",
+				"/E/github/start/practice-alipay-webbuild/index.html",
+				"/E/github/start/practice-alipay-webbuild/css/main.css",
+				"/C/Users/Administrator/Desktop/我的支付宝 － 支付宝.htm",
+				"/F/相关资料/代码原档/网页开发类/慕课网/整站/仿支付宝/js/main.js",
+				"/F/相关资料/代码原档/网页开发类/iconfont/iconfont.css",
+				"/F/相关资料/代码原档/网页开发类/慕课网/整站/仿支付宝/css/main.css",
+				"/F/相关资料/代码原档/网页开发类/慕课网/整站/仿支付宝/index.html",
+				"/C/Users/Administrator/Desktop/test2 - 副本 (2).html",
+				"/C/Users/Administrator/Desktop/test2 - 副本.html",
+				"/F/相关资料/代码原档/网页开发类/iconfont/demo.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/人人2011/JS CSS HTML实现弹出对话框/renren/dialog.html",
+				"/C/Users/Administrator/Desktop/我的支付宝 － 支付宝_files/CB5LAAEG.js",
+				"/F/相关资料/代码原档/网页开发类/慕课网/幻灯片/支付宝轮播图效果.html",
+				"/C/Users/Administrator/Desktop/ethanzhu-stockhelper-master/README.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
+				"/F/相关资料/代码原档/网页开发类/慕课网/人人2011/JS CSS HTML实现弹出对话框/renren/style/base.css",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/树/二叉树实现.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/整站/布局分类/index.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/菜单制作/伸缩菜单/index.html",
+				"/C/Users/Administrator/Desktop/test2.html",
+				"/F/相关资料/代码原档/网页开发类/其他功能网页/大眼睛鼻子CSS画画.html",
+				"/F/相关资料/代码原档/网页开发类/其他功能网页/html5-fruit-ninja/index.html",
+				"/C/Users/Administrator/Desktop/1.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/mine/index.html",
+				"/F/相关资料/代码原档/网页开发类/整站/便签整站模板/index.htm",
+				"/E/github/start/myResume/index.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/mine/css/style.css",
+				"/F/相关资料/代码原档/网页开发类/整站/www.jakubszymanski.eu/www.jakubszymanski.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/排序/希尔排序简单.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/3.html",
+				"/F/相关资料/代码原档/网页开发类/jiaoben2204/index.html",
+				"/D/Program Files (x86)/nodejs/node_modules/npm/npmrc",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/6.html",
+				"/F/相关资料/代码原档/网页开发类/pure-css3-social-buttons/default.css",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/04-特效菜单/特效菜单.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/排序/冒泡排序实现.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter14/Chap14-2.js",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/链表/链表实现.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/链表/双向链表.html",
+				"/F/相关资料/代码原档/网页开发类/动画效果/蹦床弹跳及橡皮筋拖拽切换图片效果/index.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/列表/movie.html",
+				"/F/相关资料/代码原档/网页开发类/表单元素/CSS3联系表单 背景透明迷人DEMO演示/index.html",
+				"/F/相关资料/代码原档/网页开发类/表单元素/CSS3联系表单 背景透明迷人DEMO演示/css/style.css",
+				"/C/Users/Administrator/WebstormProjects/index.html",
+				"/F/相关资料/代码原档/网页开发类/html5-mario/QAuIByrkL.js",
+				"/F/相关资料/代码原档/网页开发类/webhek/index.htm",
+				"/F/相关资料/代码原档/网页开发类/表单元素/CSS3联系表单 背景透明迷人DEMO演示/css/Blurry-city-lights1337.jpg",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/列表/列表构建 - 副本.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter2/chap2_1.js",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/README.md",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/列表/列表构建.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/展开与收起效果（源代码）/Demo1 - 副本.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/展开与收起效果（源代码）/Demo1.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter3/chap3_1.js",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter2/xiti2-1学生成绩的对象_添加成绩的方法_平均成绩的方法.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/2.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter2/timu2-1学生成绩的对象_添加成绩的方法_平均成绩的方法.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/JS-Data-Structure-and-Algorithms-master/answer/Chapter2/chap2.js",
+				"/C/Users/Administrator/Desktop/2015-03-18-js-img-load/index.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/数组/二维数组.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/数组/split转换字符串至json.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/this 计算.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/03-动画菜单/动画菜单.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/03-动画菜单/js动画菜单.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/人人2011/上传图片.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/人人2011/图片自适应屏幕.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/js算法/截取字符串abcdefg的efg.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/左边跟随鼠标滑动导航仿淘宝UED.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/03-动画菜单/jquery导航下拉菜单两级平滑导航菜单/index.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/D/Program Files (x86)/新建文件夹/User/Preferences.sublime-settings",
+				"/D/Program Files (x86)/新建文件夹/User/Package Control.user-ca-bundle",
+				"/D/Program Files (x86)/新建文件夹/User/Default (Windows).sublime-keymap",
+				"/D/Program Files (x86)/新建文件夹/新建文件夹/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"></",
+					"\"></",
+					"class=\"separator\"",
+					"5",
+					"iconfont",
+					"服务大厅",
+					"$",
+					"0",
+					"removeNode",
+					"removenode",
+					"register-switch-input25",
+					"putstr",
+					"cookie-message",
+					"999",
+					"print",
+					"eturn",
+					"unction",
+					"print",
+					"eturn",
+					"unction",
+					"unction enqueue(element) {\n",
+					"unction",
+					"1",
+					".",
+					"person3",
+					"Person",
+					"print",
+					"movies",
+					"print",
+					"slidetoggle",
+					"ap",
+					"print",
+					"word",
+					"x",
+					"score",
+					"print",
+					"columns",
+					"print",
+					"所有数组第一个字母",
+					" ;",
+					"print",
+					"x",
+					"print",
+					"x",
+					"print"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\meicai\\Desktop\\yzj"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/meicai/Desktop/yzj/huhu.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 190,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										132,
+										132
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"auto_name": "!",
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,538,52,0,708",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 237.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
