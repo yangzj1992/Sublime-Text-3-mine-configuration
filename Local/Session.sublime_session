@@ -1,6 +1,10 @@
 {
 	"folder_history":
 	[
+		"/C/Users/meicai/Documents/GitHub/jstutorial",
+		"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai",
+		"/C/yzj/慕课网/人人2011/所见所得编辑器",
+		"/C/yzj/慕课网/人人2011/JS CSS HTML实现弹出对话框",
 		"/C/Users/meicai/Documents/GitHub",
 		"/C/Users/meicai/Desktop/yzj",
 		"/C/Users/Administrator/Desktop/iconfont-master/iconfont-master",
@@ -19,11 +23,11 @@
 		"/F/相关资料/代码原档/网页开发类/慕课网"
 	],
 	"last_version": 3083,
-	"last_window_id": 9,
+	"last_window_id": 10,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 479.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -31,8 +35,128 @@
 				"selected_items":
 				[
 					[
-						"style",
+						"fibo",
+						"fibonaccinew"
+					],
+					[
+						"arg",
+						"arguments"
+					],
+					[
+						"uniq",
+						"unique2"
+					],
+					[
+						"ser",
+						"serial_maker〔function〕"
+					],
+					[
+						"obje",
+						"object"
+					],
+					[
+						"my",
+						"myQuo"
+					],
+					[
+						"gets",
+						"get_status"
+					],
+					[
+						"func",
+						"function〔keyword〕"
+					],
+					[
+						"st",
+						"style"
+					],
+					[
+						"ab",
+						"absolute〔value〕"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"statu",
+						"statusObject〔variable〕"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"inc",
+						"increment"
+					],
+					[
+						"writ",
+						"writeln〔function〕"
+					],
+					[
+						"doc",
+						"document〔variable〕"
+					],
+					[
+						"scr",
+						"script	Tag"
+					],
+					[
+						"styl",
 						"style	Attr"
+					],
+					[
+						"min-",
+						"min-height"
+					],
+					[
+						"icon",
+						"iconfont"
+					],
+					[
+						"border-bott",
+						"border-bottom-color"
+					],
+					[
+						"marin",
+						"margin-left"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"main",
+						"main.js"
+					],
+					[
+						"scrip",
+						"script	Tag"
+					],
+					[
+						"script",
+						"script	Tag"
+					],
+					[
+						"scri",
+						"script	<script>"
+					],
+					[
+						"style",
+						"style	Tag"
 					],
 					[
 						"hei",
@@ -51,10 +175,6 @@
 						"person2〔variable〕"
 					],
 					[
-						"styl",
-						"style	Tag"
-					],
-					[
 						"data",
 						"dataStore"
 					],
@@ -64,10 +184,6 @@
 					],
 					[
 						"sc",
-						"script	Tag"
-					],
-					[
-						"scrip",
 						"script	Tag"
 					],
 					[
@@ -84,22 +200,34 @@
 					]
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 129.0,
+				"height": 290.0,
+				"last_filter": "insta",
 				"selected_items":
 				[
-					[
-						"install",
-						"Package Control: Install Package"
-					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"ins",
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						"BracketHighlighter: Remove Brackets"
+					],
+					[
+						"install",
 						"Package Control: Install Package"
 					],
 					[
@@ -107,7 +235,7 @@
 						"Package Control: Install Package"
 					],
 					[
-						"INSTA",
+						"ins",
 						"Package Control: Install Package"
 					],
 					[
@@ -141,12 +269,42 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Administrator/Desktop/1.html",
+				"/C/Users/meicai/Documents/GitHub/practice-alipay-webbuild/css/main.css",
+				"/C/Users/meicai/Desktop/yzj/test4.html",
+				"/C/Users/meicai/Desktop/yzj/test.html",
+				"/C/Users/meicai/Documents/GitHub/practice-alipay-webbuild/index.html",
+				"/C/Users/meicai/Desktop/yzj/test2.html",
+				"/C/Users/meicai/Desktop/yzj/test3.html",
+				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/F/相关资料/代码原档/网页开发类/正方形中间透明的圆实现.html",
+				"/E/github/start/practice-alipay-webbuild/index.html",
+				"/E/github/start/practice-alipay-webbuild/css/main.css",
+				"/C/Users/Administrator/Desktop/我的支付宝 － 支付宝.htm",
+				"/F/相关资料/代码原档/网页开发类/慕课网/整站/仿支付宝/js/main.js",
+				"/F/相关资料/代码原档/网页开发类/iconfont/iconfont.css",
+				"/F/相关资料/代码原档/网页开发类/慕课网/整站/仿支付宝/css/main.css",
+				"/F/相关资料/代码原档/网页开发类/慕课网/整站/仿支付宝/index.html",
 				"/C/Users/Administrator/Desktop/test2 - 副本 (2).html",
-				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/树/二叉树实现.html",
-				"/F/相关资料/代码原档/网页开发类/慕课网/mine/index.html",
 				"/C/Users/Administrator/Desktop/test2 - 副本.html",
+				"/F/相关资料/代码原档/网页开发类/iconfont/demo.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/人人2011/JS CSS HTML实现弹出对话框/renren/dialog.html",
+				"/C/Users/Administrator/Desktop/我的支付宝 － 支付宝_files/CB5LAAEG.js",
+				"/F/相关资料/代码原档/网页开发类/慕课网/幻灯片/支付宝轮播图效果.html",
+				"/C/Users/Administrator/Desktop/ethanzhu-stockhelper-master/README.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
+				"/F/相关资料/代码原档/网页开发类/慕课网/人人2011/JS CSS HTML实现弹出对话框/renren/style/base.css",
+				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/me/树/二叉树实现.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/整站/布局分类/index.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/菜单制作/伸缩菜单/index.html",
 				"/C/Users/Administrator/Desktop/test2.html",
+				"/F/相关资料/代码原档/网页开发类/其他功能网页/大眼睛鼻子CSS画画.html",
+				"/F/相关资料/代码原档/网页开发类/其他功能网页/html5-fruit-ninja/index.html",
+				"/C/Users/Administrator/Desktop/1.html",
+				"/F/相关资料/代码原档/网页开发类/慕课网/mine/index.html",
 				"/F/相关资料/代码原档/网页开发类/整站/便签整站模板/index.htm",
 				"/E/github/start/myResume/index.html",
 				"/F/相关资料/代码原档/网页开发类/慕课网/mine/css/style.css",
@@ -192,7 +350,6 @@
 				"/F/相关资料/代码原档/网页开发类/慕课网/js_数据结构/js算法/截取字符串abcdefg的efg.html",
 				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/左边跟随鼠标滑动导航仿淘宝UED.html",
 				"/F/相关资料/代码原档/网页开发类/慕课网/下拉菜单(源代码)/03-动画菜单/jquery导航下拉菜单两级平滑导航菜单/index.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
 				"/D/Program Files (x86)/新建文件夹/User/Preferences.sublime-settings",
 				"/D/Program Files (x86)/新建文件夹/User/Package Control.user-ca-bundle",
@@ -202,7 +359,7 @@
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 60.0
 			},
 			"find_in_files":
 			{
@@ -216,6 +373,22 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					");\n",
+					"var fibonaccinew=function(){\n			var memo=[0,1];\n			var fib=function(n){\n				var result=memo[n];\n				if(typeof result !=='number'){\n					result=fib(n-1)+fib(n-2);\n					memo[n]=result;\n				}\n				return result;\n			}\n			return fib();\n		}();\n		for(var i = 0; i <= 10; i += 1) {\n			document.writeln('// ' + i + ': ' + fibonaccinew(i));\n		}",
+					">\n",
+					"<div id=\"cc\"><h1>fajifjaijfis</h1></div>",
+					"0000",
+					"”",
+					"></",
+					"\"></",
+					"class=\"separator\"",
+					"5",
+					"iconfont",
+					"服务大厅",
+					"$",
+					"0",
+					"removeNode",
+					"removenode",
 					"register-switch-input25",
 					"putstr",
 					"cookie-message",
@@ -267,7 +440,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 60.0
 			},
 			"input":
 			{
@@ -282,6 +455,7 @@
 			{
 				"height": 0.0
 			},
+			"pinned_build_system": "",
 			"replace":
 			{
 				"height": 52.0
@@ -290,6 +464,7 @@
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -298,6 +473,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -306,6 +482,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -332,7 +509,35 @@
 				[
 					[
 						"my",
-						"myQuo"
+						"myCat"
+					],
+					[
+						"get",
+						"get_name"
+					],
+					[
+						"ne",
+						"new"
+					],
+					[
+						"fibo",
+						"fibonaccinew"
+					],
+					[
+						"arg",
+						"arguments"
+					],
+					[
+						"uniq",
+						"unique2"
+					],
+					[
+						"ser",
+						"serial_maker〔function〕"
+					],
+					[
+						"obje",
+						"object"
 					],
 					[
 						"gets",
@@ -482,16 +687,16 @@
 					"file": "/C/Users/meicai/Desktop/yzj/huhu.html",
 					"settings":
 					{
-						"buffer_size": 3072,
+						"buffer_size": 8365,
 						"line_ending": "Windows",
 						"name": "!"
 					}
 				},
 				{
-					"file": "/C/Users/meicai/Desktop/yzj/CSS3 border属性翻页.html",
+					"file": "/C/Users/meicai/Documents/GitHub/jstutorial/index.md",
 					"settings":
 					{
-						"buffer_size": 1031,
+						"buffer_size": 4348,
 						"line_ending": "Windows"
 					}
 				},
@@ -499,15 +704,7 @@
 					"file": "/C/Users/meicai/Desktop/yzj/test4.html",
 					"settings":
 					{
-						"buffer_size": 519,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/meicai/Documents/GitHub/practice-alipay-webbuild/css/main.css",
-					"settings":
-					{
-						"buffer_size": 1471,
+						"buffer_size": 168,
 						"line_ending": "Windows"
 					}
 				},
@@ -515,7 +712,15 @@
 					"file": "/C/Users/meicai/Desktop/yzj/test2.html",
 					"settings":
 					{
-						"buffer_size": 1039,
+						"buffer_size": 1023,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/meicai/Desktop/yzj/test3.html",
+					"settings":
+					{
+						"buffer_size": 624,
 						"line_ending": "Windows"
 					}
 				},
@@ -523,7 +728,23 @@
 					"file": "/C/Users/meicai/Desktop/yzj/test.html",
 					"settings":
 					{
-						"buffer_size": 1185,
+						"buffer_size": 299,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/css/style.css",
+					"settings":
+					{
+						"buffer_size": 34124,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.html",
+					"settings":
+					{
+						"buffer_size": 15158,
 						"line_ending": "Windows"
 					}
 				}
@@ -535,10 +756,30 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 267.0,
-				"last_filter": "INSTA",
+				"height": 392.0,
+				"last_filter": "insta",
 				"selected_items":
 				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"mk",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
 					[
 						"INSTA",
 						"Package Control: Install Package"
@@ -556,14 +797,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"ins",
 						"Package Control: Install Package"
 					],
@@ -576,7 +809,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 528.0
+				"width": 464.0
 			},
 			"console":
 			{
@@ -598,13 +831,28 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/meicai/Desktop/yzj",
 				"/C/Users/meicai/Documents/GitHub",
-				"/C/Users/meicai/Documents/GitHub/practice-alipay-webbuild",
-				"/C/Users/meicai/Documents/GitHub/practice-alipay-webbuild/css"
+				"/C/Users/meicai/Documents/GitHub/jstutorial"
 			],
 			"file_history":
 			[
+				"/C/Users/meicai/Documents/GitHub/jstutorial/grammar/object.md",
+				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/meicai/Documents/GitHub/jstutorial/index.md",
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/css/bootstrap.min.css",
+				"/C/yzj/慕课网/人人2011/所见所得编辑器/renren/editor.html",
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/assets/fancybox/source/fancybox_sprite.png",
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/www.yunshanmeicai.html",
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/_Reports/project_report.htm",
+				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/jobs.php.html",
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/contact.php.html",
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/About.php.html",
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/newbie.php.html",
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/services.php",
+				"/C/Users/meicai/Desktop/yzj/1.html",
+				"/C/Users/meicai/Desktop/yzj/test5.html",
+				"/C/Users/meicai/Documents/GitHub/practice-alipay-webbuild/css/main.css",
 				"/C/Users/meicai/Desktop/yzj/test4.html",
 				"/C/Users/meicai/Desktop/yzj/test.html",
 				"/C/Users/meicai/Documents/GitHub/practice-alipay-webbuild/index.html",
@@ -612,7 +860,6 @@
 				"/C/Users/meicai/Desktop/yzj/test3.html",
 				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Windows/System32/drivers/etc/hosts",
 				"/F/相关资料/代码原档/网页开发类/正方形中间透明的圆实现.html",
 				"/E/github/start/practice-alipay-webbuild/index.html",
@@ -708,6 +955,28 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Parent",
+					"风吹江南之互联网金融",
+					"读书的“风景”:大学生活之春花秋月 陈平原著",
+					"大学潜规则:谁能优先进入美国顶尖大学 (美) 丹尼尔·金著",
+					"信息简史 (美) 詹姆斯·格雷克著",
+					"进化心理学:心理的新科学 D·M·巴斯著",
+					"外企敲门砖:外企英语面试全攻略 蒋娜著",
+					"微信内幕大揭秘 卢九评编著 ",
+					"SAP基础教程 (美) George W. Anderson, Danielle Larocca著",
+					"SAP基础教程 (美) George W. Anderson, Danielle Larocca著 ",
+					"PHP & MySQL程序设计实例讲座 陈惠贞, 陈俊荣编著 ",
+					"编程珠玑 (美)Jon Bentley著 ",
+					"编程珠玑 (美)Jon Bentley著",
+					"数据结构:Java版.第3版 叶核亚编著 ",
+					"数据结构:Java版.第3版 ",
+					"J2EE课程设计:技术应用指导 杨少波主编 ",
+					"HTML5秘籍 (美) Matthew MacDonald著 ",
+					"中文社科图书借阅处 ",
+					"中文科技图书借阅处",
+					"新书阅览室（105）",
+					");\n",
+					"var fibonaccinew=function(){\n			var memo=[0,1];\n			var fib=function(n){\n				var result=memo[n];\n				if(typeof result !=='number'){\n					result=fib(n-1)+fib(n-2);\n					memo[n]=result;\n				}\n				return result;\n			}\n			return fib();\n		}();\n		for(var i = 0; i <= 10; i += 1) {\n			document.writeln('// ' + i + ': ' + fibonaccinew(i));\n		}",
 					">\n",
 					"<div id=\"cc\"><h1>fajifjaijfis</h1></div>",
 					"0000",
@@ -778,12 +1047,21 @@
 				},
 				{
 					"path": "C:\\Users\\meicai\\Documents\\GitHub"
+				},
+				{
+					"path": "C:\\yzj\\慕课网\\人人2011\\JS CSS HTML实现弹出对话框"
+				},
+				{
+					"path": "C:\\yzj\\慕课网\\人人2011\\所见所得编辑器"
+				},
+				{
+					"path": "C:\\Users\\meicai\\Documents\\My WebZIP Sites\\yunshanmeicai"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -792,15 +1070,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3072,
+								"buffer_size": 8365,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2740,
-										2740
+										8317,
+										8317
 									]
 								],
 								"settings":
@@ -810,87 +1088,87 @@
 									"auto_name": "!",
 									"bh_regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
 									],
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/HTML/HTML.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 2639.0,
+								"translation.y": 697.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/C/Users/meicai/Desktop/yzj/CSS3 border属性翻页.html",
-							"semi_transient": true,
+							"file": "/C/Users/meicai/Documents/GitHub/jstutorial/index.md",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1031,
+								"buffer_size": 4348,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										3012,
+										3012
 									]
 								],
 								"settings":
@@ -898,71 +1176,70 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
 									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2310.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -971,15 +1248,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 519,
+								"buffer_size": 168,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										120,
+										120
 									]
 								],
 								"settings":
@@ -988,61 +1265,61 @@
 									"auto_complete": false,
 									"bh_regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
 									],
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/HTML/HTML.tmLanguage"
@@ -1056,108 +1333,19 @@
 						},
 						{
 							"buffer": 3,
-							"file": "/C/Users/meicai/Documents/GitHub/practice-alipay-webbuild/css/main.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1471,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										593,
-										593
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 308.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
 							"file": "/C/Users/meicai/Desktop/yzj/test2.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1039,
+								"buffer_size": 1023,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										89,
-										89
+										15,
+										15
 									]
 								],
 								"settings":
@@ -1166,61 +1354,61 @@
 									"auto_complete": false,
 									"bh_regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_curly_content"
 									],
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/HTML/HTML.tmLanguage",
@@ -1230,7 +1418,96 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/meicai/Desktop/yzj/test3.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 624,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										349,
+										349
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -1239,77 +1516,78 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1185,
+								"buffer_size": 299,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										265,
+										264
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
+									"auto_complete": false,
 									"bh_regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_curly_content"
 									],
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/HTML/HTML.tmLanguage",
@@ -1320,7 +1598,188 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/css/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 34124,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10101,
+										10101
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 12395.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15158,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14847,
+										14847
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 268.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
 							"type": "text"
 						}
 					]
@@ -1328,7 +1787,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 38.0
 			},
 			"input":
 			{
@@ -1365,12 +1824,16 @@
 			{
 				"height": 0.0
 			},
+			"output.markdown":
+			{
+				"height": 142.0
+			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,538,52,0,708",
+			"position": "0,2,3,-1,-1,-1,-1,538,59,0,715",
 			"project": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":

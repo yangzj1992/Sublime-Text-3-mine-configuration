@@ -15,14 +15,18 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"FileDiffs",
+		"FindKeyConflicts",
 		"Git",
 		"HTML5",
 		"JavaScript Completions",
 		"jQuery",
 		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
 		"Sublimerge Pro",
 		"Theme - Nil"
 	]
