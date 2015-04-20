@@ -10,8 +10,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_subsequent_lines": true,
 	"line_padding_bottom": 1,

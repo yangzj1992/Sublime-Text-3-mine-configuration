@@ -27,6 +27,10 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
 		"Sublimerge Pro",
 		"Theme - Nil"
 	]
