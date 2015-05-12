@@ -7,5 +7,32 @@
     {
         "id": "repl_python_run",
         "file": "config/Python/Main.sublime-menu"
-    }}
+    }},
+    { "keys": ["f2"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:/Program Files (x86)/Mozilla Firefox/firefox.exe", 
+                //对应上面的Firefox路径
+                "extensions":".*" 
+            } 
+    },
+
+    { "keys": ["f1"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:/Users/meicai/AppData/Roaming/360se6/Application/360se.exe",
+                //对应上面的Safari路径
+                "extensions":".*" 
+            } 
+    },
+
+    //如果有新添加的浏览器，只需要把下面这个对象复制一份，路径与新添加的对应就可以了.
+    { "keys": ["f4"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+                //对应上面的Chrome路径
+                "extensions":".*" 
+            } 
+    }
 ]

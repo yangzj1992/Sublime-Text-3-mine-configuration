@@ -1,6 +1,11 @@
 {
 	"folder_history":
 	[
+		"/C/meixiansong.git",
+		"/C/Users/meicai/Desktop/question",
+		"/C/meixiansong",
+		"/C/meixiansong-weixinweb",
+		"/C/meixiansong-web",
 		"/C/wamp/www/commodity-master/protected/views/tempUser",
 		"/C/wamp/www/commodity",
 		"/C/wamp/www/commodity-master",
@@ -999,6 +1004,130 @@
 				"selected_items":
 				[
 					[
+						"trai",
+						"trainingbtn"
+					],
+					[
+						"save",
+						"savebutton〔variable〕"
+					],
+					[
+						"serc",
+						"servicecity"
+					],
+					[
+						"plate",
+						"platetype"
+					],
+					[
+						"Clas",
+						"className	Element"
+					],
+					[
+						"ah",
+						"ahrefs"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"modi",
+						"modify-personalinfo.html"
+					],
+					[
+						"train",
+						"training-course.html"
+					],
+					[
+						"register",
+						"registrebutton"
+					],
+					[
+						"child",
+						"childNodes	Node"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"border-ri",
+						"border-right-style"
+					],
+					[
+						"dialog",
+						"dialogWidth"
+					],
+					[
+						"dial",
+						"dialogHeight"
+					],
+					[
+						"ass",
+						"assets/"
+					],
+					[
+						"lay",
+						"layer.m"
+					],
+					[
+						"as",
+						"assets/"
+					],
+					[
+						"window",
+						"windowWidth"
+					],
+					[
+						"win",
+						"windowHeight"
+					],
+					[
+						"border-bottom-",
+						"border-bottom-width"
+					],
+					[
+						"li",
+						"lisp	list-style-position"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"marin",
+						"margin-top"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"border",
+						"border-width"
+					],
+					[
 						"tempt",
 						"temptomorrowstate"
 					],
@@ -1189,10 +1318,6 @@
 					[
 						"img",
 						"img/"
-					],
-					[
-						"mar",
-						"margin"
 					],
 					[
 						"a",
@@ -1389,133 +1514,82 @@
 					[
 						"fibo",
 						"fibonaccinew"
-					],
-					[
-						"arg",
-						"arguments"
-					],
-					[
-						"uniq",
-						"unique2"
-					],
-					[
-						"ser",
-						"serial_maker〔function〕"
-					],
-					[
-						"func",
-						"function〔keyword〕"
-					],
-					[
-						"fun",
-						"function〔keyword〕"
-					],
-					[
-						"statu",
-						"statusObject〔variable〕"
-					],
-					[
-						"inc",
-						"increment"
-					],
-					[
-						"writ",
-						"writeln〔function〕"
-					],
-					[
-						"doc",
-						"document〔variable〕"
-					],
-					[
-						"scr",
-						"script	Tag"
-					],
-					[
-						"styl",
-						"style	Attr"
-					],
-					[
-						"min-",
-						"min-height"
-					],
-					[
-						"icon",
-						"iconfont"
-					],
-					[
-						"border-bott",
-						"border-bottom-color"
-					],
-					[
-						"marin",
-						"margin-left"
-					],
-					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"inl",
-						"inline-block"
-					],
-					[
-						"main",
-						"main.js"
-					],
-					[
-						"scrip",
-						"script	Tag"
-					],
-					[
-						"scri",
-						"script	<script>"
-					],
-					[
-						"hei",
-						"height"
-					],
-					[
-						"pers",
-						"person2〔variable〕"
-					],
-					[
-						"data",
-						"dataStore"
-					],
-					[
-						"para",
-						"paramJson〔variable〕"
-					],
-					[
-						"sc",
-						"script	Tag"
-					],
-					[
-						"ca",
-						"caption	<caption>"
-					],
-					[
-						"can",
-						"canvas	<canvas>"
-					],
-					[
-						"DOC",
-						"document"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/C/Users/meicai/Desktop/yzj/test3.html",
+					"file": "/C/meixiansong/js/main.js",
 					"settings":
 					{
-						"buffer_size": 1350,
+						"buffer_size": 11889,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/wamp/www/commodity-master/protected/views/tempUser/index.php",
+					"settings":
+					{
+						"buffer_size": 28856,
 						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/wamp/www/commodity-master/assets/js/component/search_query.js",
+					"settings":
+					{
+						"buffer_size": 761,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/wamp/www/commodity-master/assets/js/search.js",
+					"settings":
+					{
+						"buffer_size": 5153,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/wamp/www/commodity-master/assets/js/component/grid/grid.js",
+					"settings":
+					{
+						"buffer_size": 26033,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/meixiansong/training-course.html",
+					"settings":
+					{
+						"buffer_size": 2011,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/meixiansong/personalinfo.html",
+					"settings":
+					{
+						"buffer_size": 1344,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/meixiansong/css/main.css",
+					"settings":
+					{
+						"buffer_size": 116924,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "public function actionSearch() {\n        $page = Yii::app()->request->getParam( 'page' );\n        $page = isset($page ) ? (int)$page : 1;\n        $pageSize = 20;\n        $name = Yii::app()->request->getParam( 'name' );\n        $is_driver = Yii::app()->request->getParam( 'is_driver' );\n        $is_distributor = Yii::app()->request->getParam( 'is_distributor' );\n        $phone = Yii::app()->request->getParam( 'phone' );\n        $cityId = $this->user['current_city_id'];\n        $status = Yii::app()->request->getParam( 'status' );\n        $is_car_out = $_GET['is_car_out'];\n\n        $param = array();\n        $param['page'] = $page;\n        $param['pageSize'] = $pageSize;\n        $param['name'] = $name;\n        $param['is_driver'] = $is_driver;\n        $param['is_distributor'] = $is_distributor;\n        $param['phone'] = $phone;\n        $param['city_id'] = $cityId;\n        $param['status'] = $status;\n        $param['is_car_out'] = $is_car_out;\n\n        $list = $this->temp_user_app->search($param);\n        // print_r($list['data']);\n        // var_dump(sizeof($list['data']));die;\n        //查询出车次数\n        if(sizeof($list['data'])>0){\n            $groups = array();\n            foreach ($list['data'] as $a) {\n                if($a['id'] != '')\n                    $groups[] = $a['id'];\n            }\n            $groups = array_filter($groups);\n            if(!empty($groups))\n                $param['driver_ids'] = join(',', $groups);\n            $param['is_booking'] =  1;\n            $booking_count = $this->temp_user_app->getCarHistoryCount($param);\n            foreach ($list['data'] as $key => $record) {\n                if(sizeof($booking_count)>0){\n                    foreach($booking_count as $group_id){\n                        if($record['id'] == $group_id['driver_id']){\n                            $list['data'][$key]['car_out_num'] = $group_id['a'];\n                            break;\n                        }\n                    }\n                }\n                if(empty($list['data'][$key]['car_out_num'])){\n                    $list['data'][$key]['car_out_num'] = 0;\n                }\n            }\n            \n            $book_time = strtotime(date(\"Y-m-d\"));\n            if(intval((time()-strtotime(date(\"Y-m-d\")))/3600)>4){\n                $book_time = $book_time + 3600*24;\n            }\n\n            unset($param);\n            $param['delivery_time'] = $book_time;\n            $bookNow = $this->temp_user_app->getBookingStatusBy4Hour($param);\n            foreach ($list['data'] as $key => $record) {\n                foreach($bookNow as $book){\n                    if($record['id'] == $book['driver_id']){\n                        $list['data'][$key]['is_car_out'] = $book['is_booking'];\n                        break;\n                    }\n                }\n//            var_dump(empty($list['data'][$key]['is_car_out']));\n//            if(empty($list['data'][$key]['is_car_out'])){\n//                $list['data'][$key]['is_car_out'] = \"0\";\n//            }\n            }\n        }\n        $rt = array(\n            'rows' => $list['data'],\n            'page' => $page,\n            'per_page' => $pageSize,\n            'total' => $list['total'],\n            'total_pages' => ceil($list['total']/$pageSize)\n        );\n        echo json_encode($rt);",
+					"settings":
+					{
+						"buffer_size": 3285,
+						"line_ending": "Windows",
+						"name": "public function actionSearch() {"
 					}
 				}
 			],
@@ -1546,10 +1620,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 175.0,
-				"last_filter": "remove",
+				"height": 392.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTAL",
+						"Package Control: Install Package"
+					],
 					[
 						"remove",
 						"Package Control: Remove Package"
@@ -1591,10 +1673,6 @@
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"INSTA",
-						"Package Control: Install Package"
-					],
-					[
 						"",
 						"BracketHighlighter: Remove Brackets"
 					],
@@ -1633,22 +1711,62 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/meicai/Desktop/yzj",
+				"/C/xampp/htdocs/meicai/meicaicn",
 				"/C/wamp/www/commodity-master",
 				"/C/wamp/www/commodity-master/assets",
-				"/C/wamp/www/commodity-master/assets/dist",
-				"/C/wamp/www/commodity-master/protected"
+				"/C/wamp/www/commodity-master/assets/js",
+				"/C/wamp/www/commodity-master/assets/js/component",
+				"/C/wamp/www/commodity-master/protected/views/tempUser",
+				"/C/wamp/www/commodity-master/themes/classic",
+				"/C/wamp/www/commodity-master/themes/classic/views",
+				"/C/meixiansong"
 			],
 			"file_history":
 			[
-				"/C/Users/meicai/Desktop/yzj/test2.html",
+				"/C/wamp/www/commodity-master/assets/dist/commodity.css",
+				"/C/wamp/www/commodity-master/assets/js/search.js",
+				"/C/wamp/www/commodity-master/assets/dist/commodity.js",
+				"/C/meixiansong/modify-personalinfo.html",
+				"/C/layer-mobile-form/README.md",
+				"/C/Users/meicai/Desktop/yzj/test6.html",
+				"/C/layer-mobile-forms/.git/logs/refs/heads/master",
+				"/C/layer下的适配手机表单/.git/logs/refs/heads/master",
+				"/C/layer下的适配手机表单/.git/index",
+				"/C/layer下的适配手机表单/README.md",
+				"/C/meixiansong/register.html",
+				"/C/meixiansong/training-course.html",
+				"/C/meixiansong/js/textarea.js",
+				"/C/meixiansong/js/main.js",
+				"/C/yzj/慕课网/菜单制作/Tab-自动切换/js/script.js",
+				"/C/meixiansong/css/main.css",
+				"/C/meixiansong/personalinfo.html",
+				"/C/Users/meicai/Desktop/question/main.css",
+				"/C/Users/meicai/Desktop/question/test.html",
+				"/C/Users/meicai/Desktop/question/main.js",
+				"/C/meixiansong/register-fail.html",
+				"/C/meixiansong/register-success.html",
+				"/C/meixiansong/choosecity.html",
+				"/C/Users/meicai/Desktop/yzj/jquery-1.8.3.min.js",
+				"/C/meixiansong/assets/layer/layer.js",
+				"/C/Users/meicai/Desktop/yzj/zdialog/弹出层代码/demo.html",
+				"/C/meixiansong/test.html",
+				"/C/Users/meicai/Desktop/yzj/zdialog/弹出层代码/说明.txt",
+				"/C/meixiansong/css/reset.css",
+				"/C/yzj/慕课网/菜单制作/Tab-延迟/index - js.html",
+				"/C/xampp/htdocs/meicai/meicaicn/css/style.css",
 				"/C/wamp/www/commodity-master/protected/views/tempUser/index.php",
+				"/C/meixiansong/package.json",
+				"/C/meixiansong/Gruntfile.js",
+				"/C/meixiansong-weixinweb/package.json",
+				"/C/Users/meicai/Desktop/yzj/test.md",
+				"/C/Users/meicai/Desktop/yzj/test2.md",
+				"/C/Users/meicai/Desktop/yzj/test3.md",
+				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/meicai/Desktop/yzj/test2.html",
 				"/C/wamp/www/commodity-master/protected/lib/app/distribute/TempUserApp.class.php",
 				"/C/wamp/www/commodity-master/protected/views/car/driver.php",
-				"/C/wamp/www/commodity-master/assets/dist/commodity.css",
 				"/C/wamp/www/commodity-master/protected/config/main.php",
 				"/C/Users/meicai/Desktop/yzj/test4.html",
-				"/C/Users/meicai/Desktop/yzj/test6.html",
 				"/C/Users/meicai/Desktop/yzj/test.html",
 				"/C/wamp/www/commodity-master/protected/controllers/TempUserController.php",
 				"/C/Users/meicai/Desktop/countdown/index.php",
@@ -1699,7 +1817,6 @@
 				"/C/Users/meicai/Desktop/yzj/my present/index.html",
 				"/C/Users/meicai/Desktop/yzj/test.py",
 				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
-				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/yzj/JavaScript 高级程序设计(第三版)源码/Ch08/IntervalExample02.htm",
 				"/C/yzj/JavaScript 高级程序设计(第三版)源码/Ch08/LocationExample01.htm",
 				"/C/Users/meicai/Desktop/run-code/run-code.js",
@@ -1733,42 +1850,7 @@
 				"/C/Users/meicai/Documents/My WebZIP Sites/imooc/www.imooc.com/static/sea-modules/seajs/seajs/2.1.1/sea.js",
 				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.html",
 				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai - 副本/www.yunshanmeicai.html",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai - 副本/css/style.css",
-				"/C/yzj/慕课网/JavaScript进阶篇/表格行添加，删除.html",
-				"/C/yzj/small tools/useful function/仿知乎返回顶部.html",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/js/revulation-slide.js",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/js/page.js",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/js/respond.min.js",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/css/style.css",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/test4.html",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/test3.html",
-				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
-				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/Default (Windows).sublime-keymap",
-				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/meicai/Documents/GitHub/jstutorial/index.md",
-				"/C/Users/meicai/Documents/GitHub/jstutorial/grammar/object.md",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/css/bootstrap.min.css",
-				"/C/yzj/慕课网/人人2011/所见所得编辑器/renren/editor.html",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/assets/fancybox/source/fancybox_sprite.png",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/www.yunshanmeicai.html",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/_Reports/project_report.htm",
-				"/C/Users/meicai/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/jobs.php.html",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/contact.php.html",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/About.php.html",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/newbie.php.html",
-				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai/www.yunshanmeicai.com/services.php",
-				"/C/Users/meicai/Desktop/yzj/1.html",
-				"/C/Users/meicai/Documents/GitHub/practice-alipay-webbuild/css/main.css",
-				"/F/相关资料/代码原档/网页开发类/正方形中间透明的圆实现.html",
-				"/E/github/start/practice-alipay-webbuild/index.html",
-				"/E/github/start/practice-alipay-webbuild/css/main.css",
-				"/C/Users/Administrator/Desktop/我的支付宝 － 支付宝.htm",
-				"/F/相关资料/代码原档/网页开发类/慕课网/整站/仿支付宝/js/main.js",
-				"/F/相关资料/代码原档/网页开发类/iconfont/iconfont.css",
-				"/F/相关资料/代码原档/网页开发类/慕课网/整站/仿支付宝/css/main.css",
-				"/F/相关资料/代码原档/网页开发类/慕课网/整站/仿支付宝/index.html",
-				"/C/Users/Administrator/Desktop/test2 - 副本 (2).html"
+				"/C/Users/meicai/Documents/My WebZIP Sites/yunshanmeicai - 副本/css/style.css"
 			],
 			"find":
 			{
@@ -1786,6 +1868,87 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"search_btn",
+					"page",
+					"#sea",
+					"search_btn",
+					"#search_btn",
+					"return;",
+					"$(this)",
+					" else ",
+					"$(this)",
+					"pemer",
+					"name",
+					"2",
+					"name",
+					"getButtonName",
+					"small-mark",
+					"马上报名",
+					"console.log",
+					"modify-button",
+					">\n",
+					"武汉市",
+					"天津市",
+					"上海市",
+					"深圳市",
+					"成都市",
+					"北京市",
+					"<div class=\"letter-menu\">B</div>",
+					"city-button",
+					"choose-city",
+					"getButtonName",
+					"成都市",
+					"北京市",
+					"getCity",
+					"registerdialog",
+					"textarea",
+					"click",
+					"active",
+					"'",
+					"<li",
+					"li",
+					"$(\".register\").find(\"input[name='service_city']\")",
+					"phone",
+					"$(\".register\").find(\"input[name='phone_number']\")",
+					"$(\".register\").find(\"input[name='name']\")",
+					"$(this)",
+					"($(this)",
+					"$(this)",
+					"e",
+					"test",
+					"getCity(",
+					"this.name",
+					"()",
+					"class=\"city-button\"",
+					"ment",
+					"t",
+					"ass=\"",
+					"北京",
+					"-sm",
+					"sm",
+					"-sm",
+					"sm",
+					"form-text",
+					"smallmark",
+					"</span>",
+					"<span>",
+					"active ",
+					"class=\"hide\"",
+					"一二三四五",
+					"window.location.href('')",
+					"50",
+					"left",
+					"8",
+					"4",
+					"col-sm-1",
+					"8",
+					"col-sm-12",
+					"col-sm-8",
+					"col-sm-4",
+					"submit",
+					"你",
+					"btn-info",
+					"^",
 					"update_form",
 					"update_booking_status1",
 					"find",
@@ -1832,88 +1995,7 @@
 					"FW.RowRenderer",
 					"_actions",
 					"GetDay",
-					"is_car_out",
-					"FW.CityIdRenderer",
-					"edit_dispatch_template",
-					"update_tmpl",
-					"是否出",
-					"sub",
-					"edit_dispatch_template",
-					"#edit_popup_modal-template",
-					"ajax",
-					":'",
-					"js",
-					"username",
-					"'password' => '',",
-					"root",
-					"commodity",
-					"mysql:host=127.0.0.1;dbname=commodity",
-					"127.0.0.1",
-					"commodity",
-					"c",
-					"127.0.0.1",
-					"127",
-					"_li",
-					"4",
-					"session",
-					"divs",
-					"div",
-					"    ",
-					"   ",
-					"  ",
-					"    ",
-					"   ",
-					"  ",
-					"闭包",
-					"code",
-					"div",
-					"JAVASC",
-					"overflow",
-					"IMG",
-					"font-size",
-					"                 ",
-					"                ",
-					"               ",
-					"              ",
-					"             ",
-					"            ",
-					"           ",
-					"          ",
-					"         ",
-					"        ",
-					"       ",
-					"      ",
-					"     ",
-					"    ",
-					"   ",
-					"  ",
-					" ",
-					"65",
-					"70",
-					"margin-left: 30px;",
-					"color:#ccc",
-					"images/",
-					"1",
-					"70",
-					".row",
-					"text-center",
-					"z-index",
-					"style.css",
-					"z-index",
-					"1000",
-					"#gotop",
-					"backtotop",
-					"Parent",
-					"风吹江南之互联网金融",
-					"读书的“风景”:大学生活之春花秋月 陈平原著",
-					"大学潜规则:谁能优先进入美国顶尖大学 (美) 丹尼尔·金著",
-					"信息简史 (美) 詹姆斯·格雷克著",
-					"进化心理学:心理的新科学 D·M·巴斯著",
-					"外企敲门砖:外企英语面试全攻略 蒋娜著",
-					"微信内幕大揭秘 卢九评编著 ",
-					"SAP基础教程 (美) George W. Anderson, Danielle Larocca著",
-					"SAP基础教程 (美) George W. Anderson, Danielle Larocca著 ",
-					"PHP & MySQL程序设计实例讲座 陈惠贞, 陈俊荣编著 "
+					"is_car_out"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1959,29 +2041,122 @@
 				},
 				{
 					"path": "C:\\wamp\\www\\commodity-master"
+				},
+				{
+					"path": "C:\\meixiansong"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/meicai/Desktop/yzj/test3.html",
-							"semi_transient": true,
+							"file": "/C/meixiansong/js/main.js",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1350,
+								"buffer_size": 11889,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										11889,
+										11889
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 8743.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/wamp/www/commodity-master/protected/views/tempUser/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28856,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										26621,
+										26621
 									]
 								],
 								"settings":
@@ -1989,72 +2164,648 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
 									],
 									"origin_encoding": "UTF-8",
-									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"syntax": "Packages/PHP/PHP.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 94.0,
+								"translation.y": 11625.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/wamp/www/commodity-master/assets/js/component/search_query.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 761,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										690,
+										690
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/wamp/www/commodity-master/assets/js/search.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 5153,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5153,
+										5153
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2077.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/wamp/www/commodity-master/assets/js/component/grid/grid.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 26033,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										59,
+										59
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/meixiansong/training-course.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2011,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1827,
+										1827
+									],
+									[
+										1832,
+										1832
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 590.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/meixiansong/personalinfo.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1344,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										787,
+										787
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 132.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/meixiansong/css/main.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 116924,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										113520,
+										113520
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/CSS/CSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 327.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3285,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3285,
+										3285
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "public function actionSearch() {",
+									"default_dir": "C:\\Users\\meicai\\Desktop\\yzj",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1247.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -2108,7 +2859,7 @@
 				"height": 142.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,539,394,1,1050",
+			"position": "0,2,2,-32000,-32000,-1,-1,539,394,1,1050",
 			"project": "",
 			"replace":
 			{
@@ -2121,6 +2872,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"commodity",
+						"commodity-master\\assets\\dist\\commodity.js"
+					],
+					[
+						"search",
+						"commodity-master\\assets\\js\\search.js"
+					],
 					[
 						"tempuserapp",
 						"commodity-master\\protected\\lib\\app\\distribute\\TempUserApp.class.php"

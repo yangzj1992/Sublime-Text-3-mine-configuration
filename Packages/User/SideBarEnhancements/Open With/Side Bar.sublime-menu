@@ -1,0 +1,56 @@
+[
+    {"id": "side-bar-files-open-with",
+        "children":
+        [
+        	{
+                "caption": "Chrome",
+                "id": "side-bar-files-open-with-chrome",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                            "paths": [],
+                            "application": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+                            //Chrome浏览器的路径 Windows中，后缀为.exe
+                            "extensions":".*", 
+                            "args":[]	
+                        },
+                "open_automatically" : false
+            },
+
+            {
+                "caption": "Firefox",
+                "id": "side-bar-files-open-with-chrome",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                            "paths": [],
+                            "application": "C:/Program Files (x86)/Mozilla Firefox/firefox.exe", 
+                            //火狐浏览器的路径 Windows中，后缀为.exe
+                            "extensions":".*", 
+                            "args":[]
+                        },
+                "open_automatically" : false 
+            },
+
+            
+
+            //如果想再添加浏览器，复制下面这个对象，改相应的路径就可以了.
+            {
+                "caption": "360se",
+                "id": "side-bar-files-open-with-chrome",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                            "paths": [],
+                            "application": "C:/Users/meicai/AppData/Roaming/360se6/Application/360se.exe",
+                            //Safari浏览器的路径 Windows中，后缀为.exe
+                            "extensions":".*", 
+                            "args":[]
+                        },
+                "open_automatically" : false 
+            }
+
+
+        ]
+    }
+]
